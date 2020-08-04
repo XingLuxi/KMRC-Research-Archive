@@ -14,6 +14,6 @@ Update on **Aug. 4, 2020**.
 ## [Content](#content)
 
 1. [Survey](#survey-papers)
-2. [KMRC-Papers](#kmrc-papers)
+2. [KMRC-Papers](https://github.com/XingLuxi/KMRC-Research-Archive/blob/master/kmrc-papers.md)
 3. [KMRC-Datasets](#mrc-benchmark-datasets)
 4. [PHD-Thesis-on-MRC](#phd-thesis-on-mrc)
