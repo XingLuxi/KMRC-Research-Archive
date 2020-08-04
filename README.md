@@ -1,6 +1,6 @@
 # KMRC-Research-Archive
 
-This repository contains various resources, note, paper lists about **Knowledge-based Machine Reading Comprehension** (**KMRC**).
+This repository contains various a) paper-lists, b) note and c) resources about **Knowledge-based Machine Reading Comprehension** (**KMRC**).
 
 Contributed by [Luxi Xing](https://github.com/XingLuxi), [Yuqiang Xie](https://github.com/IndexFziQ) and [Wei Peng](https://github.com/a414351664).
 
