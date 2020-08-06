@@ -29,6 +29,10 @@ Update on **Dec. 17, 2019**.
 
     Authors: *Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William Cohen, Ruslan Salakhutdinov, Christopher D. Manning*
     
+3. **R4C**: R4C: A Benchmark for Evaluating RC Systems to Get the Right Answer for the Right Reason. ACL,2020. [[paper](https://arxiv.org/pdf/1910.04601.pdf) / [data](https://github.com/naoya-i/r4c) / [note](https://zhuanlan.zhihu.com/p/168748884)]
+
+    Authors: *Naoya Inoue, Pontus Stenetorp, Kentaro Inui*
+    
 ## [HotpotQA](#content)
 
 0. Cognitive Graph for Multi-Hop Reading Comprehension at Scale. ACL,2019. [paper](https://www.aclweb.org/anthology/P19-1259/).
