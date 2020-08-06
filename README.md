@@ -1,5 +1,5 @@
 # KMRC-Research-Archive
-<img align="middle" src="assets/kmrc-icon.png" height="128" alt="kmrc-logo">
+<img align="middle" src="content/assets/kmrc-icon.png" height="128" alt="kmrc-logo">
 
 This repository contains various resources about **Knowledge-based Machine Reading Comprehension** (**KMRC**).
 
