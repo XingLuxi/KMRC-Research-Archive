@@ -2,11 +2,11 @@
 
 A list of recent papers about **Multi-Hop Machine Reading Comprehension**.
 
-Contributed by [Luxi Xing](https://github.com/XingLuxi).
+Contributed by [Luxi Xing](https://github.com/XingLuxi), [Yuqiang Xie](https://github.com/IndexFziQ) and [Wei Peng](https://github.com/a414351664).
 
 Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China. 
 
-Update on **Dec. 17, 2019**.
+Update on **Aug. 6, 2020**.
 
 (the current version only contains the works published on the conferences or journals, we will continuously update this list.)
 
