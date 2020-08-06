@@ -25,6 +25,6 @@ Update on **Aug. 4, 2020**.
 
 ## [Paper Lists](#content)
 
-1. [KMRC Papers](https://github.com/XingLuxi/KMRC-Research-Archive/blob/master/papers-kmrc.md)
-2. [Multi-Hop MRC Papers](https://github.com/XingLuxi/KMRC-Research-Archive/blob/master/papers-multi-hop.md)
+1. [KMRC Papers](https://github.com/XingLuxi/KMRC-Research-Archive/blob/master/content/papers-kmrc.md)
+2. [Multi-Hop MRC Papers](https://github.com/XingLuxi/KMRC-Research-Archive/blob/master/content/papers-multi-hop.md)
 
