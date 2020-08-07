@@ -27,7 +27,7 @@ Update on **Aug. 4, 2020**.
 
 :link: [here](/content/surveys.md)
 
-include: 1) MRC, 2) PLM, 3) NLP with CSK, 4) NLP misc
+include: 1) [MRC](/content/surveys.md#mrc), 2) [PLM](/content/surveys.md#plm), 3) NLP with CSK, 4) NLP misc
 
 ## [Paper Lists](#content)
 
