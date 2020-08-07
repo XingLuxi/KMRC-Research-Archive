@@ -23,8 +23,12 @@ Update on **Aug. 4, 2020**.
 7. [PHD Thesis on MRC](#phd-thesis-on-mrc)
 8. [Misc Resource](#)
 
+## [Survey Papers](#content)
+
+:link: [here]()
+
 ## [Paper Lists](#content)
 
-1. [KMRC Papers](https://github.com/XingLuxi/KMRC-Research-Archive/blob/master/content/papers-kmrc.md)
+1. [KMRC Papers](/content/papers-kmrc.md)
 2. [Multi-Hop MRC Papers](https://github.com/XingLuxi/KMRC-Research-Archive/blob/master/content/papers-multi-hop.md)
 
