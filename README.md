@@ -25,7 +25,7 @@ Update on **Aug. 4, 2020**.
 
 ## [Survey Papers](#content)
 
-:link: [here](/content/surveys.md)
+[:link: here](/content/surveys.md)
 
 includes: 1) [MRC](/content/surveys.md#mrc), 2) [PLM](/content/surveys.md#plm), 3) [NLP with CSK](/content/surveys.md#nlp-with-csk), 4) [NLP misc](/content/surveys.md#nlp-misc)
 
