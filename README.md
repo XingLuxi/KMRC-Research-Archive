@@ -17,17 +17,17 @@ Update on **Aug. 4, 2020**.
 1. [Survey](#survey-papers)
 2. [Paper Lists](#paper-lists)
 3. [KMRC Datasets](#mrc-benchmark-datasets)
-4. [Probing Papers](#)
-5. [Code & Projects](#)
-6. [Tutorials](#)
+4. [Probing Papers](#content)
+5. [Code & Projects](#content)
+6. [Tutorials](#content)
 7. [PHD Thesis on MRC](#content) [:link: ](/content/phd-thesis.md)
-8. [Misc Resource](#)
+8. [Misc Resource](#content)
 
 ## [Survey Papers](#content)
 
 :link: [here](/content/surveys.md)
 
-include: 1) [MRC](/content/surveys.md#mrc), 2) [PLM](/content/surveys.md#plm), 3) [NLP with CSK](/content/surveys.md#nlp-with-csk), 4) [NLP misc](/content/surveys.md#nlp-misc)
+includes: 1) [MRC](/content/surveys.md#mrc), 2) [PLM](/content/surveys.md#plm), 3) [NLP with CSK](/content/surveys.md#nlp-with-csk), 4) [NLP misc](/content/surveys.md#nlp-misc)
 
 ## [Paper Lists](#content)
 
