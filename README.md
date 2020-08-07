@@ -25,7 +25,7 @@ Update on **Aug. 4, 2020**.
 
 ## [Survey Papers](#content)
 
-:link: [here]()
+:link: [here](/content/surveys.md)
 
 ## [Paper Lists](#content)
 
