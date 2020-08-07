@@ -27,6 +27,8 @@ Update on **Aug. 4, 2020**.
 
 :link: [here](/content/surveys.md)
 
+include: a) MRC, b) PLM, c) NLP with CSK, d) NLP misc
+
 ## [Paper Lists](#content)
 
 1. [KMRC Papers](/content/papers-kmrc.md)
