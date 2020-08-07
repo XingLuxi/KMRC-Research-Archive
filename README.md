@@ -20,7 +20,7 @@ Update on **Aug. 4, 2020**.
 4. [Probing Papers](#)
 5. [Code & Projects](#)
 6. [Tutorials](#)
-7. [PHD Thesis on MRC](#phd-thesis-on-mrc)
+7. [PHD Thesis on MRC](#phd-thesis-on-mrc) :link: [here](/content/phd-thesis.md)
 8. [Misc Resource](#)
 
 ## [Survey Papers](#content)
