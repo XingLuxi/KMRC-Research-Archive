@@ -29,13 +29,13 @@ Update on **Aug. 6, 2020**.
 
     Authors: *Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William Cohen, Ruslan Salakhutdinov, Christopher D. Manning*
     
-3. **R4C**: R4C: A Benchmark for Evaluating RC Systems to Get the Right Answer for the Right Reason. ACL,2020. [[paper](https://arxiv.org/pdf/1910.04601.pdf) / [data](https://github.com/naoya-i/r4c) / [note](https://zhuanlan.zhihu.com/p/168748884)]
+3. **R4C**: A Benchmark for Evaluating RC Systems to Get the Right Answer for the Right Reason. ACL,2020. [[paper](https://arxiv.org/pdf/1910.04601.pdf) / [data](https://github.com/naoya-i/r4c) / [note](https://zhuanlan.zhihu.com/p/168748884)]
 
     Authors: *Naoya Inoue, Pontus Stenetorp, Kentaro Inui*
     
 ## [HotpotQA](#content)
 
-0. Cognitive Graph for Multi-Hop Reading Comprehension at Scale. ACL,2019. [paper](https://www.aclweb.org/anthology/P19-1259/).
+1. Cognitive Graph for Multi-Hop Reading Comprehension at Scale. ACL,2019. [paper](https://www.aclweb.org/anthology/P19-1259/).
 0. Dynamically Fused Graph Network for Multi-hop Reasoning. ACL,2019. [paper](https://www.aclweb.org/anthology/P19-1617/).
 0. Answering while Summarizing: Multi-task Learning for Multi-Hop QA with Evidence Extraction. ACL,2019. [paper](https://www.aclweb.org/anthology/P19-1225/).
 0. Compositional Questions Do Not Necessitate Multi-hop Reasoning. ACL,2019. [paper](https://www.aclweb.org/anthology/P19-1416/).
@@ -70,9 +70,3 @@ Update on **Aug. 6, 2020**.
 6. Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs. ACL,2019.
 7. Coarse-Grain Fine-Grain Coattention Network for Multi-Evidence Question Answering. ICLR,2019.
 8. Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension. ACL,2019.
-
-
-
-## Other Paper List About MRC
-
-[thunlp/RCPapers](https://github.com/thunlp/RCPapers)
