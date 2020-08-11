@@ -83,3 +83,8 @@ Update on **Aug. 7, 2020**.
 1. **Recent Advances and Challenges in Task-oriented Dialog System**. 2020. [[paper](https://arxiv.org/abs/2003.07490)]
 
     Authors: *Zheng Zhang, Ryuichi Takanobu, Qi Zhu, Minlie Huang, Xiaoyan Zhu*
+    
+1. **Challenges in Building Intelligent Open-domain Dialog Systems**. 2019. [[paper](https://arxiv.org/abs/1905.05709)]
+
+    Authors: *Minlie Huang, Xiaoyan Zhu, Jianfeng Gao*
+
