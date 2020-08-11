@@ -76,3 +76,10 @@ Update on **Aug. 7, 2020**.
 
     Authors: *Ming Zhou, Nan Duan, Shujie Liu, Heung-Yeung Shum*
 
+1. **A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges**. 2020. [[paper](http://arxiv.org/abs/2007.13069)]
+
+    Authors: *Bin Fu, Yunqi Qiu, Chengguang Tang, Yang Li, Haiyang Yu, Jian Sun*
+
+1. **Recent Advances and Challenges in Task-oriented Dialog System**. 2020. [[paper](https://arxiv.org/abs/2003.07490)]
+
+    Authors: *Zheng Zhang, Ryuichi Takanobu, Qi Zhu, Minlie Huang, Xiaoyan Zhu*
