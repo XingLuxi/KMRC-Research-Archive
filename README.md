@@ -7,7 +7,7 @@ Contributed by [Luxi Xing](https://github.com/XingLuxi), [Yuqiang Xie](https://g
 
 Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China.
 
-Update on **Aug. 4, 2020**.
+Update on **Aug. 11, 2020**.
 
 (We will continuously update this repo.)
 
@@ -17,7 +17,7 @@ Update on **Aug. 4, 2020**.
 1. [Survey](#survey-papers)
 2. [Paper Lists](#paper-lists)
 3. [KMRC Datasets](#mrc-benchmark-datasets) [:link:](/content/datasets-kmrc.md)
-4. [Probing Papers](#content)
+4. [Probing Papers](#content) [:link:](/content/papers-prob.md)
 5. [Code & Projects](#content)
 6. [Tutorials](#content)
 7. [PHD Thesis on MRC](#content) [:link: ](/content/phd-thesis.md)
