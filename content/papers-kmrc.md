@@ -31,7 +31,7 @@ Update on **Mar. 4, 2020**.
 | A Multi-Attention based Neural Network with External Knowledge for Story Ending Predicting Task | COLING<br>2018 | SCT | [paper](http://www.aclweb.org/anthology/C18-1149) |
 | Incorporating Structured Commonsense Knowledge in Story Completion | AAAI<br>2018 | SCT | [paper](https://arxiv.org/abs/1811.00625) |
 | Story Ending Prediction by Transferable BERT | IJCAI<br>2019 | SCT | [paper](https://arxiv.org/abs/1905.07504) |
-
+| Toward Better Storylines with Sentence-Level Language Models | ACL<br>2020 | SCT | [paper](https://www.aclweb.org/anthology/2020.acl-main.666) |
 
 
 ## [Span Extraction Tasks](#content)
@@ -44,6 +44,8 @@ Update on **Mar. 4, 2020**.
 | Machine Reading Comprehension Using Structural Knowledge Graph-aware Network | EMNLP<br>2019<br>short | ReCoRD | [paper](https://www.aclweb.org/anthology/D19-1602) |
 | `+` SG-Net: Syntax-Guided Machine Reading Comprehension | AAAI<br>2020 | SQuAD2.0<br>RACE | [paper](http://arxiv.org/abs/1908.05147) | 
 | `+` Semantics-aware BERT for Language Understanding | AAAI<br>2020 | SQuAD2.0 | [paper](http://arxiv.org/abs/1909.02209) |
+| `+` Entities as Experts: Sparse Memory Access with Entity Supervision | 2020 | TriviaQA | [paper](http://in.arxiv.org/abs/2004.07202) |
+| `+` Semantics-Aware Inferential Network for Natural Language Understanding | 2020 | * | [paper](http://arxiv.org/abs/2004.13338) |
 
 * `+` indicates works regarding injecting knowledge to improve performance on the datasets not included in this summary.
 
@@ -68,6 +70,10 @@ Update on **Mar. 4, 2020**.
 | Exploring ways to incorporate additional knowledge to improve Natural Language Commonsense Question Answering| 2019 | ANLI/<br>SocialIQA | [paper](http://arxiv.org/abs/1909.08855)<br>[note](http://xingluxi.github.io/2019/09/26/paper-kn-mcqa-1909-08855/) |
 | Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering | AAAI<br>2020 | CSQA | [paper](http://arxiv.org/abs/1909.05311)<br>[note](http://xingluxi.github.io/2019/09/17/paper-csqa-1909-05311/) | 
 | K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters | 2020 | CosmosQA | [paper](http://arxiv.org/abs/2002.01808)<br>[note](https://xingluxi.github.io/2020/02/10/paper-2019-k-adapter/) |
+| Unsupervised Commonsense Question Answering with Self-Talk | 2020 | CSQA<br>SIQA | [paper](http://arxiv.org/abs/2004.05483)<br>[note](https://xingluxi.github.io/2020/04/26/paper-2020-2004-05483-self-talk/) |
+| L2R2: Leveraging Ranking for Abductive Reasoning | SIGIR<br>2020 | ANLI | [paper](http://arxiv.org/abs/2005.11223) |
+| Unsupervised Alignment-based Iterative Evidence Retrieval for Multi-hop Question Answering | ACL<br>2020 | MultiRC<br>QASC | [paper](https://www.aclweb.org/anthology/2020.acl-main.414) |
+| Logic-Guided Data Augmentation and Regularization for Consistent Question Answering | ACL<br>2020 | WIQA<br>QuaREL | [paper](https://www.aclweb.org/anthology/2020.acl-main.499) |
 
 
 ## [Generation Tasks](#content)
@@ -80,7 +86,7 @@ Also known as **Free-form Answer Tasks**
 | Incorporating External Knowledge into Machine Reading for Generative Question Answering | EMNLP<br>2019 | MS MARCO | [paper](http://arxiv.org/abs/1909.02745)<br>[note](http://xingluxi.github.io/2019/10/13/paper-emnlp2019-keag/) |
 | Modeling Event Background for If-Then Commonsense Reasoning Using Context-aware Variational Autoencoder | EMNLP<br>2019 | Event2Mind | [paper](http://arxiv.org/abs/1909.08824) |
 | Dynamic Knowledge Graph Construction for Zero-shot Commonsense Question Answering | 2019 | SocialIQA<br>StoryCommonsense | [paper](http://arxiv.org/abs/1911.03876) |
-
+| Injecting Numerical Reasoning Skills into Language Models | ACL<br>2020 | DROP | [paper](https://www.aclweb.org/anthology/2020.acl-main.89) |
 
 
 ## [Other Paper List About MRC](#content)
