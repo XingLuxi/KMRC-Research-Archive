@@ -133,6 +133,11 @@ Update on **Aug. 7, 2020**.
     Authors: *Tushar Khot, Peter Clark, Michal Guerquin, Peter Jansen, Ashish Sabharwal*
     
     * Type: Multiple-Choice;
+    
+1. **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs**. NAACL,2019. [[paper](http://arxiv.org/abs/1903.00161)]
+
+    Authros: *Dheeru Dua, Yizhong Wang, Pradeep Dasigi, Gabriel Stanovsky, Sameer Singh, Matt Gardner*
+
 
 Note: *Only consider the benchmark datasets/tasks which require knowledge to complete.*
 
