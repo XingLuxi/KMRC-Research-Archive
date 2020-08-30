@@ -29,3 +29,6 @@ Update on **Aug. 7, 2020**.
 
     Author: Arindam Mitra (Arizona State University)
 
+1. **Relation/Entity-Centric Reading Comprehension**. 2020. [[link](https://arxiv.org/abs/2008.11940)]
+    
+    Author: Takeshi Onishi (Toyota Technological Institute at Chicago)
