@@ -143,41 +143,52 @@ Update on **March 2, 2021**.
 
 1. **WIQA**: A dataset for "What if ..." reasoning over procedural text. EMNLP,2019. [[paper](http://arxiv.org/abs/1909.04739)]
 
-    * Type: Multiple-Choice;
+    * Type: Multiple-Choice
 
-1. [**ROPEs**] Reasoning Over Paragraph Effects in Situations. ACL,2019,workshop.
+1. [**ROPEs**] Reasoning Over Paragraph Effects in Situations. ACL,2019,workshop. [[paper](https://www.aclweb.org/anthology/D19-5808)]
 
-2. **R^3**: A Reading Comprehension Benchmark Requiring Reasoning Process. 2020.
+    * Type: Multiple-Choice
 
-3. **ProtoQA**: A Question Answering Dataset for Prototypical Common-Sense Reasoning. EMNLP,2020.
+1. **R^3**: A Reading Comprehension Benchmark Requiring Reasoning Process. 2020. [[paper](http://arxiv.org/abs/2004.01251)]
 
-4. **ESPRIT**: Explaining Solutions to Physical Reasoning Tasks. ACL,2020.
+2. **ProtoQA**: A Question Answering Dataset for Prototypical Common-Sense Reasoning. EMNLP,2020. [[paper](http://arxiv.org/abs/2005.00771)]
 
-5. **R4C**: A Benchmark for Evaluating RC Systems to Get the Right Answer for the Right Reason. ACL,2020.
+3. **ESPRIT**: Explaining Solutions to Physical Reasoning Tasks. ACL,2020. [[paper](https://www.aclweb.org/anthology/2020.acl-main.706)]
 
-6. **LogiQA**: A Challenge Dataset for Machine Reading Comprehension with Logical Reasoning. IJCAI,2020.
+4. **R4C**: A Benchmark for Evaluating RC Systems to Get the Right Answer for the Right Reason. ACL,2020. [[paper](https://www.aclweb.org/anthology/2020.acl-main.602)]
 
-7. **MathQA**: Towards Interpretable Math Word Problem Solving with Operation-Based Formalisms. NAACL-HIT,2019.
+5. **LogiQA**: A Challenge Dataset for Machine Reading Comprehension with Logical Reasoning. IJCAI,2020. [[paper](http://arxiv.org/abs/2007.08124)]
+ 
+6. **MathQA**: Towards Interpretable Math Word Problem Solving with Operation-Based Formalisms. NAACL-HIT,2019. [[paper](https://www.aclweb.org/anthology/N19-1245)]
 
-8. **QuaRel**: A Dataset and Models for Answering Questions about Qualitative Relationships. AAAI,2019.
+7. **QuaRel**: A Dataset and Models for Answering Questions about Qualitative Relationships. AAAI,2019. [[paper](http://arxiv.org/abs/1811.08048)]
 
-9. **Quoref**: A Reading Comprehension Dataset with Questions Requiring Coreferential Reasoning. EMNLP,2019.
+8. **Quoref**: A Reading Comprehension Dataset with Questions Requiring Coreferential Reasoning. EMNLP,2019. [[paper](http://arxiv.org/abs/1908.05803)]
 
-10. **KILT**: a Benchmark for Knowledge Intensive Language Tasks. 2020.
+9. **KILT**: a Benchmark for Knowledge Intensive Language Tasks. 2020. [[paper](https://arxiv.org/abs/2009.02252) / [data](http://kiltbenchmark.com/) / [code](https://github.com/facebookresearch/KILT)]
 
-11. **QED**: A Framework and Dataset for Explanations in Question Answering. 2020.
+10. **QED**: A Framework and Dataset for Explanations in Question Answering. 2020. [[paper](http://arxiv.org/abs/2009.06354)]
 
-12. **Learning to Explain**: Datasets and Models for Identifying Valid Reasoning Chains in Multihop Question-Answering. EMNLP,2020.
+11. **Learning to Explain**: Datasets and Models for Identifying Valid Reasoning Chains in Multihop Question-Answering. EMNLP,2020. [[paper](http://arxiv.org/abs/2010.03274)]
 
-13. **QuaRTz**: An Open-Domain Dataset of Qualitative Relationship Questions. EMNLP,2019.
+12. **QuaRTz**: An Open-Domain Dataset of Qualitative Relationship Questions. EMNLP,2019. [[paper](https://www.aclweb.org/anthology/D19-1608)]
 
-14. **IIRC**: A Dataset of Incomplete Information Reading Comprehension Questions. EMNLP,2020.
+13. **IIRC**: A Dataset of Incomplete Information Reading Comprehension Questions. EMNLP,2020. [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.86)]
 
-15. **TyDi QA**: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages. TACL,2020.
+14. **TyDi QA**: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages. TACL,2020. [[paper](https://www.aclweb.org/anthology/2020.tacl-1.30)]
 
-16. **TORQUE**: A Reading Comprehension Dataset of Temporal Ordering Questions. EMNLP,2020.
-17. [**StrategyQA**] Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies. 2021.
-18. [**ARC-DA**] Think you have Solved Direct-Answer Question Answering? Try ARC-DA, the Direct-Answer AI2 Reasoning Challenge. 2021.
+15. **TORQUE**: A Reading Comprehension Dataset of Temporal Ordering Questions. EMNLP,2020. [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.88)]
+
+
+1. [**StrategyQA**] Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies. 2021. [[paper](http://arxiv.org/abs/2101.02235)]
+
+    * Type: Yes/No (Boolean)
+
+
+1. [**ARC-DA**] Think you have Solved Direct-Answer Question Answering? Try ARC-DA, the Direct-Answer AI2 Reasoning Challenge. 2021. [[paper](https://arxiv.org/abs/2102.03315v1)]
+
+    * Type: Generation
+ 
  
 
 Note: *Only consider the benchmark datasets/tasks which require knowledge to complete.*
