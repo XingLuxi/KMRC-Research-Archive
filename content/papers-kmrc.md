@@ -75,6 +75,7 @@ Update on **Sep. 26, 2020**.
 | Unsupervised Alignment-based Iterative Evidence Retrieval for Multi-hop Question Answering | ACL<br>2020 | MultiRC<br>QASC | [paper](https://www.aclweb.org/anthology/2020.acl-main.414) |
 | Logic-Guided Data Augmentation and Regularization for Consistent Question Answering | ACL<br>2020 | WIQA<br>QuaREL | [paper](https://www.aclweb.org/anthology/2020.acl-main.499) |
 | Connecting the Dots: A Knowledgeable Path Generator for Commonsense Question Answering | 2020 | CSQA<br>OBQA | [paper](http://arxiv.org/abs/2005.00691) |
+| Fusing Context Into Knowledge Graph for Commonsense Reasoning | 2020 | CSQA | [paper](http://arxiv.org/abs/2012.04808) |
 
 
 ## [Generation Tasks](#content)
