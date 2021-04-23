@@ -1,6 +1,6 @@
 # Papers on Multi-Hop Machine Reading Comprehension
 
-![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/-papers-blue) ![](https://img.shields.io/badge/-corpus-gray) 
+![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/-papers-blue) ![](https://img.shields.io/badge/-corpus-lightgray) 
 
 A list of recent papers about **Multi-Hop Machine Reading Comprehension**.
 

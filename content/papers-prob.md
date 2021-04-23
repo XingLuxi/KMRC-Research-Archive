@@ -1,6 +1,6 @@
 # Probing Papers on Machine Reading Comprehension
 
-![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/-analysis-orange)
+![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/-analysis-critical)
 
 Contributed by [Luxi Xing](https://github.com/XingLuxi), [Yuqiang Xie](https://github.com/IndexFziQ) and [Wei Peng](https://github.com/a414351664).
 
