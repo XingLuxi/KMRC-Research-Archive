@@ -1,5 +1,7 @@
 # Papers on Multi-Hop Machine Reading Comprehension
 
+![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/-papers-blue) ![](https://img.shields.io/badge/-corpus-gray) 
+
 A list of recent papers about **Multi-Hop Machine Reading Comprehension**.
 
 Contributed by [Luxi Xing](https://github.com/XingLuxi), [Yuqiang Xie](https://github.com/IndexFziQ) and [Wei Peng](https://github.com/a414351664).
