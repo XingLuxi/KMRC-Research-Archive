@@ -1,13 +1,13 @@
 # KMRC-Research-Archive
 ![](https://img.shields.io/badge/Status-building-brightgreen)
 
-<img align="middle" src="content/assets/kmrc-icon.png" height="128" alt="kmrc-logo">
-
 This repository contains various resources about **Knowledge-based Machine Reading Comprehension** (**KMRC**).
 
 Contributed by [Luxi Xing](https://github.com/XingLuxi), [Yuqiang Xie](https://github.com/IndexFziQ) and [Wei Peng](https://github.com/a414351664).
 
 Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China.
+
+<img align="middle" src="content/assets/kmrc-icon.png" height="128" alt="kmrc-logo">
 
 Update on **March 2, 2021**.
 
