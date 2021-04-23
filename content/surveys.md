@@ -1,7 +1,8 @@
 # Papers on Survey Papers about Machine Reading Comprehension.
 
 <!-- A list of recent papers about **Knowledge-based Machine Reading Comprehension** (**KMRC**). -->
-![](https://img.shields.io/badge/Status-building-brightgreen)
+![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/-survey-important)
+
 
 Contributed by [Luxi Xing](https://github.com/XingLuxi), [Yuqiang Xie](https://github.com/IndexFziQ) and [Wei Peng](https://github.com/a414351664).
 
