@@ -2,6 +2,8 @@
 
 <!-- A list of recent papers about **Knowledge-based Machine Reading Comprehension** (**KMRC**). -->
 
+![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/-thesis-9cf) 
+
 Contributed by [Luxi Xing](https://github.com/XingLuxi), [Yuqiang Xie](https://github.com/IndexFziQ) and [Wei Peng](https://github.com/a414351664).
 
 Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China. 

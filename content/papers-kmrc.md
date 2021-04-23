@@ -1,5 +1,7 @@
 # Papers on Knowledge-based Machine Reading Comprehension.
 
+![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/-papers-blue) 
+
 A list of recent papers about **Knowledge-based Machine Reading Comprehension** (**KMRC**).
 
 Contributed by [Luxi Xing](https://github.com/XingLuxi), [Yuqiang Xie](https://github.com/IndexFziQ) and [Wei Peng](https://github.com/a414351664).
@@ -8,7 +10,7 @@ Institute of Information Engineering, Chinese Academy of Sciences, Beijing, Chin
 
 Update on **Sep. 26, 2020**.
 
-(We will continuously update this list.)
+<!--(We will continuously update this list.)-->
 
 -------
 

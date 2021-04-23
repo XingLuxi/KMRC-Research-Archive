@@ -10,7 +10,8 @@ Institute of Information Engineering, Chinese Academy of Sciences, Beijing, Chin
 
 Update on **Aug. 6, 2020**.
 
-(the current version only contains the works published on the conferences or journals, we will continuously update this list.)
+(the current version only contains the works published on the conferences or journals.)
+<!--(the current version only contains the works published on the conferences or journals, we will continuously update this list.)-->
 
 -------
 
