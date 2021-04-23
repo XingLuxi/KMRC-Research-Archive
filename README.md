@@ -1,4 +1,5 @@
 # KMRC-Research-Archive
+![](https://img.shields.io/badge/Status-building-brightgreen)
 <img align="middle" src="content/assets/kmrc-icon.png" height="128" alt="kmrc-logo">
 
 This repository contains various resources about **Knowledge-based Machine Reading Comprehension** (**KMRC**).
@@ -12,6 +13,7 @@ Update on **March 2, 2021**.
 (We will continuously update this repo.)
 
 
+<!--![](https://img.shields.io/badge/-blog-red) -->
 ## [Content](#content)
 
 1. [Survey](#survey-papers)
