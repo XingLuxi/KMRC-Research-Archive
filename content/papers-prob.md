@@ -1,12 +1,14 @@
 # Probing Papers on Machine Reading Comprehension
 
+![](https://img.shields.io/badge/Status-building-brightgreen)
+
 Contributed by [Luxi Xing](https://github.com/XingLuxi), [Yuqiang Xie](https://github.com/IndexFziQ) and [Wei Peng](https://github.com/a414351664).
 
 Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China. 
 
-Update on **Aug. 11, 2020**.
+Update on **April. 23, 2021**.
 
-(We will continuously update this list.)
+<!--(We will continuously update this list.)-->
 
 -------
 
@@ -30,5 +32,9 @@ Update on **Aug. 11, 2020**.
 
     Authors: *Saku Sugawara, Pontus Stenetorp, Kentaro Inui, Akiko Aizawa*
   
+1. **Benchmarking Machine Reading Comprehension: A Psychological Perspective**. EACL,2021. [[paper](https://www.aclweb.org/anthology/2021.eacl-main.137)]
+
+    Authors: *Saku Sugawara, Pontus Stenetorp, Akiko Aizawa*
+
   
   
