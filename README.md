@@ -25,8 +25,9 @@ Update on **March 2, 2021**.
 4. [Probing Papers](#content) [:link:](/content/papers-prob.md)
 5. [Code & Projects](#content)
 6. [Tutorials](#content)
-7. [PHD Thesis on MRC](#content) [:link: ](/content/phd-thesis.md)
-8. [Misc Resource](#content)
+7. [PHD Thesis on MRC](#content) [:link:](/content/phd-thesis.md)
+8. [RC Theory](#content) [:link:](/content/rc-theory.md)
+9. [Misc Resource](#content)
 
 ## [Survey Papers](#content)
 
@@ -38,5 +39,5 @@ includes: 1) [MRC](/content/surveys.md#mrc), 2) [PLM](/content/surveys.md#plm), 
 
 1. [KMRC Papers](/content/papers-kmrc.md)
 2. [Multi-Hop MRC Papers](https://github.com/XingLuxi/KMRC-Research-Archive/blob/master/content/papers-multi-hop.md)
-3. Reason
+3. Reasoning in MRC
 
