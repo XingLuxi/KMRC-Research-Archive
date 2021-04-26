@@ -10,3 +10,13 @@ Update on **April. 25, 2021**.
 
 -----
 
+* Schema-based Reading Comprehension
+* Event-Indexing Model
+* Constructionist Theory
+    * Search after Meaning
+    * Current Selection Model
+    * Here-and-Now view
+* Minimalist Hypothesis
+* Memory-based Text Processing Theory
+* Construction-Integration Model
+* Landscape Model
