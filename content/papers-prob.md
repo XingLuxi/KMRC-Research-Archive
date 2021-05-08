@@ -31,6 +31,10 @@ Update on **April. 23, 2021**.
 1. **Assessing the Benchmarking Capacity of Machine Reading Comprehension Datasets**. AAAI,2020. [[paper](https://arxiv.org/abs/1911.09241)]
 
     Authors: *Saku Sugawara, Pontus Stenetorp, Kentaro Inui, Akiko Aizawa*
+    
+1. **A Framework for Evaluation of Machine Reading Comprehension Gold Standards**. LREC,2020. [[paper](https://www.aclweb.org/anthology/2020.lrec-1.660)]
+
+    Authors: *Viktor Schlegel, Marco Valentino, Andr´e Freitas, Goran Nenadic, Riza Batista-Navarro*
   
 1. **Benchmarking Machine Reading Comprehension: A Psychological Perspective**. EACL,2021. [[paper](https://www.aclweb.org/anthology/2021.eacl-main.137)]
 
