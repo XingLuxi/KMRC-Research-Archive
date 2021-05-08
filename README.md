@@ -20,7 +20,7 @@ Update on **March 2, 2021**.
 ## [Content](#content)
 
 1. [Survey](#survey-papers)
-2. [Paper Lists](#paper-lists)
+2. [Paper Lists](#paper-lists) [:link:](/content/papers-kmrc.md)
 3. [KMRC Datasets](#mrc-benchmark-datasets) [:link:](/content/datasets-kmrc.md)
 4. [Probing Papers](#content) [:link:](/content/papers-prob.md)
 5. [Code & Projects](#content)
