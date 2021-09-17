@@ -1,6 +1,7 @@
 # KMRC-Research-Archive
-![](https://img.shields.io/badge/Status-building-brightgreen)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+![](https://img.shields.io/badge/Status-building-brightgreen)
+
 
 This repository contains various resources about **Knowledge-based Machine Reading Comprehension** (**KMRC**).
 
