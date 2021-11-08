@@ -103,3 +103,4 @@ Update on **Aug. 7, 2020**.
 
     Authors: *Minlie Huang, Xiaoyan Zhu, Jianfeng Gao*
 
+1. Paradigm Shift in Natural Language Processing. 2021. [[paper](http://arxiv.org/abs/2109.12575)]
