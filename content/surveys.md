@@ -8,7 +8,7 @@ Contributed by [Luxi Xing](https://github.com/XingLuxi), [Yuqiang Xie](https://g
 
 Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China. 
 
-Update on **Aug. 7, 2020**.
+Update on **Nov 7, 2021**.
 
 <!--(We will continuously update this list.)-->
 
@@ -103,4 +103,4 @@ Update on **Aug. 7, 2020**.
 
     Authors: *Minlie Huang, Xiaoyan Zhu, Jianfeng Gao*
 
-1. Paradigm Shift in Natural Language Processing. 2021. [[paper](http://arxiv.org/abs/2109.12575)]
+1. **Paradigm Shift in Natural Language Processing**. 2021. [[paper](http://arxiv.org/abs/2109.12575)]
