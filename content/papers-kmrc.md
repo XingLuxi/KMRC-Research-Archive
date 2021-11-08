@@ -8,7 +8,7 @@ Contributed by [Luxi Xing](https://github.com/XingLuxi), [Yuqiang Xie](https://g
 
 Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China. 
 
-Update on **Sep. 26, 2020**.
+Update on **Nov. 07, 2021**.
 
 <!--(We will continuously update this list.)-->
 
@@ -20,8 +20,6 @@ Update on **Sep. 26, 2020**.
 2. [Span Extraction Tasks](#span-extraction-tasks)
 3. [Multiple Choice Tasks](#multiple-choice-tasks)
 4. [Generation Tasks](#generation-tasks)
-5. [Others](#other-paper-list-about-mrc)
-    
 
 ## [Cloze Style Tasks](#content)
 
@@ -78,7 +76,9 @@ Update on **Sep. 26, 2020**.
 | Logic-Guided Data Augmentation and Regularization for Consistent Question Answering | ACL<br>2020 | WIQA<br>QuaREL | [paper](https://www.aclweb.org/anthology/2020.acl-main.499) |
 | Connecting the Dots: A Knowledgeable Path Generator for Commonsense Question Answering | 2020 | CSQA<br>OBQA | [paper](http://arxiv.org/abs/2005.00691) |
 | Fusing Context Into Knowledge Graph for Commonsense Reasoning | 2020 | CSQA | [paper](http://arxiv.org/abs/2012.04808) |
-
+| QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering | NAACL<br>2021| CSQA<br>OBQA | [[paper](https://www.aclweb.org/anthology/2021.naacl-main.45)] |
+| Generated Knowledge Prompting for Commonsense Reasoning | 2021 | CSQA<br>QASC<br>CSQA2 | [paper](http://arxiv.org/abs/2110.08387) |
+| GNN is a Counter? Revisiting GNN for Question Answering | 2021 | CSQA<br>OBQA | [paper](http://arxiv.org/abs/2110.03192) |
 
 ## [Generation Tasks](#content)
 Also known as **Free-form Answer Tasks**

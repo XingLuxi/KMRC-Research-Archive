@@ -11,7 +11,7 @@ Institute of Information Engineering, Chinese Academy of Sciences, Beijing, Chin
 
 <img align="middle" src="content/assets/kmrc-icon.png" height="128" alt="kmrc-logo">
 
-Update on **March 2, 2021**.
+Update on **Nov 7, 2021**.
 
 <!--(We will continuously update this repo.)-->
 

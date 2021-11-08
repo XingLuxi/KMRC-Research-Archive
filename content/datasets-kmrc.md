@@ -181,8 +181,9 @@ Update on **March 2, 2021**.
 
 15. **TORQUE**: A Reading Comprehension Dataset of Temporal Ordering Questions. EMNLP,2020. [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.88)]
 
+16. **ReClor**: A Reading Comprehension Dataset Requiring Logical Reasoning. ICLR,2020. [[paper](http://arxiv.org/abs/2002.04326)]
 
-1. [**StrategyQA**] Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies. 2021. [[paper](http://arxiv.org/abs/2101.02235)]
+17. [**StrategyQA**] Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies. 2021. [[paper](http://arxiv.org/abs/2101.02235)]
 
     * Type: Yes/No (Boolean)
 
@@ -191,9 +192,34 @@ Update on **March 2, 2021**.
 
     * Type: Generation
  
+1. **SpartQA**: : A Textual Question Answering Benchmark for Spatial Reasoning. 2021. [[paper](http://arxiv.org/abs/2104.05832)]
+ 
+    * Type: 
+ 
+ 
+1. **CommonsenseQA 2.0**: Exposing the Limits of AI through Gamification. 2021. [[paper](https://openreview.net/forum?id=qF7FlUT5dxa)]
+
+    * Type: Yes/No (Boolean)
  
 
-Note: *Only consider the benchmark datasets/tasks which require knowledge to complete.*
+
+1. **NOAHQA**: Numerical Reasoning with Interpretable Graph Question Answering Dataset. 2021. [[paper](http://arxiv.org/abs/2109.10604)]
+
+    * Type:
+
+    
+1. **ConditionalQA**: A Complex Reading Comprehension Dataset with Conditional Answers. 2021. [[paper](http://arxiv.org/abs/2110.06884)]
+
+    * Type: Extractive, Yes/No
+
+
+1. **SituatedQA**: Incorporating Extra-Linguistic Contexts into QA. EMNLP,2021. [[paper](https://aclanthology.org/2021.emnlp-main.586/)]
+
+    * Type: 
+
+
+
+Note: *Here Only consider the benchmark datasets/tasks which require knowledge to complete.*
 
 <!--
 | Publish | Dataset | Links | Domain | Task | Size | Other |
