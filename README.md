@@ -42,4 +42,5 @@ includes: 1) [MRC](/content/surveys.md#mrc), 2) [PLM](/content/surveys.md#plm), 
 1. [KMRC Papers :link:](/content/papers-kmrc.md)
 2. [Multi-Hop MRC Papers](https://github.com/XingLuxi/KMRC-Research-Archive/blob/master/content/papers-multi-hop.md)
 3. Reasoning in MRC
+4. [Robust QA :link:](/content/robust-qa.md)
 
