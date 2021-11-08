@@ -58,12 +58,25 @@ Update on **Aug. 7, 2020**.
 
     Authors: *Boyu Qiu, Xu Chen, Jungang Xu, Yingfei Sun*
 
+1. **Conversational Machine Comprehension: a Literature Review**. COLING,2020. [[paper](https://aclanthology.org/2020.coling-main.247)]
+
+1. **Advances in Multi-turn Dialogue Comprehension: A Survey**. 2021. [[paper](http://arxiv.org/abs/2103.03125)]
+
+2. **Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering**. 2021. [[paper](http://arxiv.org/abs/2101.00774)]
+
+3. **More Than Reading Comprehension: A Survey on Datasets and Metrics of Textual Question Answering**. 2021. [[paper](http://arxiv.org/abs/2109.12264)]
 
 ## [PLM](#content)
 
 1. **Pre-trained Models for Natural Language Processing: A Survey**. 2020. [[paper](https://arxiv.org/abs/2003.08271)]
 
     Authors: *Xipeng Qiu, Tianxiang Sun, Yige Xu, Yunfan Shao, Ning Dai, Xuanjing Huang*
+
+1. **Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**. 2021. [[paper](http://arxiv.org/abs/2107.13586)]
+
+
+2. **Knowledge Enhanced Pretrained Language Models: A Comprehensive Survey**. 2021. [[paper](http://arxiv.org/abs/2110.08455)]
+
 
 
 ## [NLP with CSK](#content)
