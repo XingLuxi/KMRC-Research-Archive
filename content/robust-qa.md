@@ -20,7 +20,7 @@ What is the Robustness of MRC models:
 1. Existing MRC models are based on word-level information and superficial clues. Thus, they are weak to adversarial QA pairs and are vulnerable when encounter spurious associations. 
 2. Most PLM-based MRC models are over-confident of their outputs. The high confident prediction is delightful for True Positive prediction, but devil to False Positive prediction.
 
-For estimating and improving the Robustness of MRC models, there are two(?) branches of research:
+For estimating and improving the Robustness of MRC models, there are three(?) branches of research:
 
 1. Dataset with **Unanswerable Questions**. For unanswerable question, there are several challenges, such as 1) Unanswerable question detection, 2) Plausible answer discrimination.
 2. **Domain shift**.
